@@ -1,0 +1,17 @@
+body {
+    background-image: url("bg\ photo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center; 
+    }
+
+
+
+h2 {
+    font-family: 'Righteous', cursive;
+}
+
+.border-3 {
+    border-width:3px !important;
+}
